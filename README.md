@@ -1,1 +1,1 @@
-## beauty shop pos
+## e-commerce with zustand
